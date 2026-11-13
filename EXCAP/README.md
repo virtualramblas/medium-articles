@@ -1,5 +1,5 @@
 # EXCAP Paper Implementation
-Implementation of the EXCAP [paper](https://arxiv.org/abs/2512.01412) "A Self-explainable Model of Long Time Series by Extracting Informative Structured Causal Patterns", as it has no source code companion.
+Implementation of the EXCAP [paper](https://arxiv.org/abs/2512.01412) "A Self-explainable Model of Long Time Series by Extracting Informative Structured Causal Patterns", as it has no source code companion. My Medium article series about this implementation: [Part 1](https://medium.com/@guglielmo.iozzia/implementation-of-a-self-explainable-model-of-long-time-series-by-extracting-informative-structured-e8d96e94d0d5), [Part 2](https://medium.com/@guglielmo.iozzia/implementation-of-a-self-explainable-model-of-long-time-series-by-extracting-informative-structured-8cc3c7ca495e), [Part 3](https://medium.com/@guglielmo.iozzia/implementation-of-a-self-explainable-model-of-long-time-series-by-extracting-informative-structured-381ca4199340).
 #### Content of this repo
 * *EXCAP_Paper_Implementation.ipynb*: the Colab notebook containing the end-to-end source code (data preparation, model implementation, training and evaluation, latent space visualisation and analysis, interpretability).
 * *exact_diagram.xml*: the Draw.io XML diagram of the EXCAP architecture.
